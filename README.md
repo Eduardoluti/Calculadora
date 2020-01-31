@@ -1,2 +1,2 @@
 # Calculadora
-Para ajudar em algum calculo.
+Para ajudar em algum calculo, dentro java para iniciantes no java.
